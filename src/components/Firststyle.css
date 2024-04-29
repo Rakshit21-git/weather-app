@@ -1,0 +1,9 @@
+body{
+    background-image: url('images/bg-image.jpg');
+    
+    background-size: cover;
+    /* text-decoration: whitesmoke; */
+    background-position:center;
+
+}
+
